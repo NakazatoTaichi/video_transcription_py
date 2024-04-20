@@ -1,0 +1,2 @@
+# video_transcription_py
+pythonで動画の文字起こしができるようにする
